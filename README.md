@@ -1,5 +1,10 @@
 # Google-Skill-Certification
-Data &amp; AI portfolio with Google Cloud skill badges, HR analytics projects, and learning highlights.
+
+Google Cloud Skills Portfolio: Data &amp; AI portfolio with Google Cloud skill badges, HR analytics projects, and learning highlights with 90+ badges across Generative AI, MLOps, Workspace, and AI Boost Bites — view my full Google Skills public profile below
+
+[![Google Cloud Skills Portfolio](https://img.shields.io/badge/Google_Cloud_Skills-View_All_Badges-brightgreen)](https://www.skills.google/public_profiles/20e64338-1509-4199-9541-72011807ea22)
+
+
 ## 🚀 Key Skills & Achievements
 
 **Core Skills:**  
